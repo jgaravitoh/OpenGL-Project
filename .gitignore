@@ -39,3 +39,40 @@
 
 # debug information files
 *.dwo
+
+# =========================
+# Visual Studio / generated
+# =========================
+
+# Visual Studio local cache/settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual C++ browsing databases
+*.VC.db
+*.VC.opendb
+*.opendb
+*.db-shm
+*.db-wal
+
+# IntelliSense / precompiled browsing cache
+ipch/
+
+# Build output folders
+Debug/
+Release/
+x64/
+x86/
+
+# CMake / Visual Studio generated cache
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Optional: logs/temp
+*.log
+*.tmp
